@@ -1,0 +1,31 @@
+{
+  "name": "automate-build",
+  "version": "1.0.0",
+  "description": "Clone this repo and add Gulp tasks as set out in the course activity.",
+  "main": "blog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haroonabdulrazaq/5493201-js-for-the-web-gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haroonabdulrazaq/5493201-js-for-the-web-gulp/issues"
+  },
+  "homepage": "https://github.com/Haroonabdulrazaq/5493201-js-for-the-web-gulp#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "browser-sync": "^2.26.7",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-uglify": "^3.0.2",
+    "jshint": "^2.10.2",
+    "run-sequence": "^2.2.1"
+  }
+}
